@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imdigitalyogi
+- 👋 Hi, I’m @imyogibaba
 - 👀 I’m interested in Computer and coding
 - 🌱 I’m currently learning CSS and Python
 - 💞️ I’m looking to collaborate on Project
